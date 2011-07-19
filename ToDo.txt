@@ -1,0 +1,16 @@
+UI:
+===
+
+If image is transparent, check settings if we should:
+  - draw a checkerboard
+  - draw a color
+  - leave transparent
+
+Browser a folder (with subfolders)
+
+
+Image formats:
+=============
+
+- Implement TGA file loading in wx.
+- Implement TGA file saving in wx.
